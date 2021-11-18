@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1637070111 source:f:\rohi\projects\release\finalproject_group_7\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"Headers/userMenu.h"
+	"Headers/Calender.h"
+	"Headers/Delete.h"
+	"Headers/lookEvents.h"
+	"Headers/userWordCheck.h"
+
+1637064589 f:\rohi\projects\release\finalproject_group_7\headers\usermenu.h
+
+1637059963 f:\rohi\projects\release\finalproject_group_7\headers\calender.h
+
+1637074037 f:\rohi\projects\release\finalproject_group_7\headers\delete.h
+
+1637065169 f:\rohi\projects\release\finalproject_group_7\headers\lookevents.h
+
+1637072718 f:\rohi\projects\release\finalproject_group_7\headers\userwordcheck.h
+
+1637070111 source:d:\final assignment srh\reminder app\finalproject_group_7\finalproject_group_7\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"Headers/userMenu.h"
+	"Headers/Calender.h"
+	"Headers/Delete.h"
+	"Headers/lookEvents.h"
+	"Headers/userWordCheck.h"
+
+1637064589 d:\final assignment srh\reminder app\finalproject_group_7\finalproject_group_7\headers\usermenu.h
+
+1637059963 d:\final assignment srh\reminder app\finalproject_group_7\finalproject_group_7\headers\calender.h
+
+1637074037 d:\final assignment srh\reminder app\finalproject_group_7\finalproject_group_7\headers\delete.h
+
+1637065169 d:\final assignment srh\reminder app\finalproject_group_7\finalproject_group_7\headers\lookevents.h
+
+1637072718 d:\final assignment srh\reminder app\finalproject_group_7\finalproject_group_7\headers\userwordcheck.h
+
