@@ -22,4 +22,4 @@ as you can see in the menu there is 6 option to pick, depends to which number us
 
 When user enter 1 the codes in the main.h will run to ask the user for the information of event and then going to store them in a struct in an array.
 After the program is done with getting inputs from the user (character by character) it going to open a file (a+ mode : opens a file for reading and appending) with a name which I have given(jubilee.txt) and print the inputs from user with the format given by me into the file the program opened.
-Then ask user want to continue adding events or not.
+Then ask user that want to continue adding events or not.
