@@ -11,3 +11,5 @@ about the event. If the keyword is found, then the user is given the choice to d
 
 this project is made by different header files which carry the functions for each part such as delete,search,calender,menu and so on and
 it written using Code::Block IDE and cygwin64 compiler.
+
+![Screenshot 2021-12-03 182821](https://user-images.githubusercontent.com/49981164/144646421-3960dc6a-51f2-4bd2-92f5-828539e5d1fc.png)
