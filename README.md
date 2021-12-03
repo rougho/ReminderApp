@@ -13,9 +13,10 @@ about the event. If the keyword is found, then the user is given the choice to d
 this project is made by different header files which carry the functions for each part such as delete,search,calender,menu and so on and
 it written using Code::Block IDE and cygwin64 compiler.
 
-as you can see in the menu there is 6 option to pick, depends to which number user going to enter the program will run a function related to the option.
 
 ![addevent](https://user-images.githubusercontent.com/49981164/144650812-5351e37d-91ce-428f-adc6-d3b5d62982c1.png)
+
+as you can see in the menu there is 6 option to pick, depends to which number user going to enter the program will run a function related to the option.
 
 <1.add event>
 
