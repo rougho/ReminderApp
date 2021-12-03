@@ -1,3 +1,4 @@
+![Screenshot 2021-12-03 182821](https://user-images.githubusercontent.com/49981164/144646421-3960dc6a-51f2-4bd2-92f5-828539e5d1fc.png)
 # ReminderApp
 
 An anniversary reminder application usuing C 
