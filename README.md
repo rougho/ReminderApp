@@ -1,7 +1,8 @@
-![Screenshot 2021-12-03 182821](https://user-images.githubusercontent.com/49981164/144646421-3960dc6a-51f2-4bd2-92f5-828539e5d1fc.png)
 # ReminderApp
 
 An anniversary reminder application usuing C 
+
+![Screenshot 2021-12-03 182821](https://user-images.githubusercontent.com/49981164/144646421-3960dc6a-51f2-4bd2-92f5-828539e5d1fc.png)
 
 This Calendar is a simple program that allows the users to add or delete different events during the year.
 The users can then review all the events added by them. When the users want to add an event, they will be
@@ -12,4 +13,3 @@ about the event. If the keyword is found, then the user is given the choice to d
 this project is made by different header files which carry the functions for each part such as delete,search,calender,menu and so on and
 it written using Code::Block IDE and cygwin64 compiler.
 
-![Screenshot 2021-12-03 182821](https://user-images.githubusercontent.com/49981164/144646421-3960dc6a-51f2-4bd2-92f5-828539e5d1fc.png)
