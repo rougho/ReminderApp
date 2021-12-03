@@ -27,4 +27,8 @@ Then ask user that want to continue adding events or not.
 ![addevent_yes](https://user-images.githubusercontent.com/49981164/144654593-ce2fbf59-88fe-4e3d-b08a-1c6064d3a3c0.png)
 
 
-if the user enter "y",the code runs again from the begining where it was getting inputs (using 'goto') and goes all over steps before
+if the user enter "y",the code runs again from the begining where it was getting inputs (using 'goto') and goes all over steps before.
+
+![addevent_no](https://user-images.githubusercontent.com/49981164/144654947-63cd11db-5d8b-44a8-8582-a1a50aa04f88.png)
+
+if the user enter "n" the function will terminate and show the the user menu again for user to choose other option.
