@@ -34,6 +34,7 @@ if the user enter "y",the code runs again from the begining where it was getting
 if the user enter "n" the function will terminate and show the the user menu again for user to choose other option.
 
 <3. Look Events>
+
 Opens jubilee.txt file and prints character by character if reach end of the line goes next line and keep printing until reaches EOF (end of file).
 
 ![1](https://user-images.githubusercontent.com/49981164/145841591-7c1dca1d-7aff-4aa5-b7d2-0f6574b3302b.png)
